@@ -6,3 +6,4 @@ It's layout / desgined is ment to easly let the user navigate the hompage by cli
 
 Image of Site = (./Assets/01-html-css-git-homework-demo.png)
 Image of Code = (./Assets/Horiseon-Code.png)
+Link to Site = https://eecmanny.github.io/C2-Horiseon/
