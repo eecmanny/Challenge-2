@@ -4,6 +4,10 @@ What I did to complete the task of cleaning up the code was I seperated the code
 
 It's layout / desgined is ment to easly let the user navigate the hompage by clicking the header tabs and be directly brought to that information article.
 
+https://github.com/eecmanny/C2-HoriseonLinks to an external site.
+
+https://eecmanny.github.io/C2-Horiseon/Links to an external site.
+
 Image of Site = (./Assets/01-html-css-git-homework-demo.png)
 Image of Code = (./Assets/Horiseon-Code.png)
 ![Horiseon-Code](https://github.com/eecmanny/C2-Horiseon/assets/130661353/0256f5b8-3c12-4922-b37d-4ec633d15414)
