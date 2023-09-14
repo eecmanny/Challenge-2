@@ -4,10 +4,12 @@
     margin: 0;
 }
 
+/* background color */
 body {
     background-color: #d9dcd6;
 }
 
+/* background color, font style */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -15,15 +17,18 @@ body {
     color: #ffffff;
 }
 
+/* text formatting and location */
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
+/* header text color */
 .header h1 .seo {
     color: #d9dcd6;
 }
 
+/* nav bar formatting */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -32,14 +37,17 @@ body {
     font-size: 20px;
 }
 
+/* nav bar formatting side by side */
 .header nav ul {
     list-style-type: none;
 }
 
+/* header text color */
 .header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
+
 
 a {
     color: #ffffff;
@@ -50,6 +58,7 @@ p {
     font-size: 16px;
 }
 
+/* background image anchor and formatting */
 .hero {
     height: 800px;
     width: 100%;
@@ -135,6 +144,7 @@ p {
     max-width: 150px;
 }
 
+/* box format */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -144,6 +154,7 @@ p {
     color: #ffffff;
 }
 
+/* box format */
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
@@ -153,6 +164,7 @@ p {
     color: #ffffff;
 }
 
+/* box format */
 .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -162,28 +174,34 @@ p {
     color: #ffffff;
 }
 
+/* image size */
 .search-engine-optimization img {
     max-height: 200px;
 }
 
+/* image size */
 .online-reputation-management img {
     max-height: 200px;
 }
 
+/* image size */
 .social-media-marketing img {
     max-height: 200px;
 }
 
+/* font size and format */
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
+/* font size and format */
 .online-reputation-management h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
+/* font size and format */
 .social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -196,6 +214,7 @@ p {
     text-align: center;
 }
 
+/* font size */
 .footer h2 {
     font-size: 20px;
 }
